@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="282.852" height="171.78" viewBox="0 0 282.852 171.78">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        opacity: 0.5;
+      }
+
+      .cls-2 {
+        opacity: 0.7;
+      }
+
+      .cls-3 {
+        opacity: 0.8;
+      }
+
+      .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-5 {
+        stroke: #535461;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        stroke: #707070;
+      }
+    </style>
+  </defs>
+  <g id="Agrupar_31" data-name="Agrupar 31" transform="translate(0 -8.001)">
+    <g id="graph1" transform="translate(19.295)">
+      <path id="Caminho_31" data-name="Caminho 31" class="cls-1" d="M0,0H31.579V48.727H0Z" transform="translate(0 130.526)"/>
+      <rect id="Retângulo_4" data-name="Retângulo 4" class="cls-2" width="31.579" height="92.041" transform="translate(57.177 87.212)"/>
+      <path id="Caminho_32" data-name="Caminho 32" class="cls-1" d="M0,0H31.579V65.868H0Z" transform="translate(115.444 113.378)"/>
+      <path id="Caminho_33" data-name="Caminho 33" class="cls-3" d="M0,0H31.579V106.479H0Z" transform="translate(173.711 72.774)"/>
+      <path id="Caminho_34" data-name="Caminho 34" class="cls-4" d="M0,0H31.579V144.372H0Z" transform="translate(231.978 34.874)"/>
+      <path id="Caminho_14" data-name="Caminho 14" class="cls-5" d="M311.02,231.722,368.31,179.5l56.353,49.372,55.415-59.817,56.353-23.742" transform="translate(-295.681 -130.973)"/>
+      <ellipse id="Elipse_2" data-name="Elipse 2" class="cls-4" cx="6.314" cy="6.314" rx="6.314" ry="6.314" transform="translate(9.025 94.435)"/>
+      <ellipse id="Elipse_3" data-name="Elipse 3" class="cls-4" cx="6.314" cy="6.314" rx="6.314" ry="6.314" transform="translate(123.526 90.824)"/>
+      <ellipse id="Elipse_4" data-name="Elipse 4" class="cls-4" cx="6.314" cy="6.314" rx="6.314" ry="6.314" transform="translate(177.429 31.034)"/>
+      <ellipse id="Elipse_5" data-name="Elipse 5" class="cls-4" cx="6.314" cy="6.314" rx="6.314" ry="6.314" transform="translate(66.151 43.898)"/>
+      <ellipse id="Elipse_6" data-name="Elipse 6" class="cls-4" cx="6.314" cy="6.314" rx="6.314" ry="6.314" transform="translate(234.467 8.001)"/>
+    </g>
+    <line id="Linha_2" data-name="Linha 2" class="cls-6" x1="280.538" transform="translate(0 179.282)"/>
+  </g>
+</svg>

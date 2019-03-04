@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="279" height="85" viewBox="0 0 279 85">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 55px;
+        font-family: Montserrat-Regular, Montserrat;
+      }
+
+      .cls-2 {
+        font-family: Montserrat-SemiBold, Montserrat;
+        font-weight: 600;
+      }
+
+      .cls-3 {
+        filter: url(#INVEST.IT);
+      }
+    </style>
+    <filter id="INVEST.IT" x="0" y="0" width="279" height="85" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#a1a1a1" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-3" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <text id="INVEST.IT-2" data-name="INVEST.IT" class="cls-1" transform="translate(8 59)"><tspan x="0" y="0">INVEST.</tspan><tspan class="cls-2" y="0">IT</tspan></text>
+  </g>
+</svg>
