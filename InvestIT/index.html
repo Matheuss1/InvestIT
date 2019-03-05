@@ -19,10 +19,11 @@
         </button>
 
         <div class="collapse navbar-collapse" id="menu">
-            <ul class="navbar-nav ml-auto text-center">
-                <li class="nav-item active"><a href="#about" class="nav-link">about</a></li>
-                <li class="nav-item active"><a href="#testimonials" class="nav-link">testimonials</a></li>
-                <li class="nav-item active"><a href="#contact" class="nav-link">contact</a></li>
+            <ul class="navbar-nav ml-auto text-center" data-toggle="collapse">
+                <li class="nav-item active" data-toggle="collapse"data-target=".navbar-collapse.show"><a href="#about" class="nav-link">about</a></li>
+                <li class="nav-item active" data-toggle="collapse"data-target=".navbar-collapse.show"><a href="#about" class="nav-link">services</a></li>
+                <li class="nav-item active" data-toggle="collapse"data-target=".navbar-collapse.show"><a href="#testimonials" class="nav-link">testimonials</a></li>
+                <li class="nav-item active" data-toggle="collapse"data-target=".navbar-collapse.show"><a href="#contact" class="nav-link">contact</a></li>
             </ul>
         </div>
 
@@ -72,6 +73,12 @@
     </div>
     <!--End About-->
 
+    <!-- Start Services -->
+    <div id="services">
+        
+    </div>
+    <!-- End Services -->
+
     <!-- Start Testimonials -->
     <div id="testimonials">
         <div class="comments">
@@ -84,8 +91,8 @@
                     and help me make Money.</p>
                 <img src="imgs/aatik-tasneem-138230-unsplash.png">
                 <h1>"useful for investments"</h1>
-                <p class="semibold">This app is perfect if you<br>
-                     are looking
+                <p class="semibold">This app is perfect if your are <br>
+                     looking
                      to invest your<br>
                      Money with security.</p>
             </div>
@@ -96,7 +103,19 @@
 
     <!-- Start Contact -->
     <div id="contact">
-        
+        <div class="form-align">
+            <h1>Contact us</h1>
+        <form>
+            <div class="text-box-1">
+                <label for="e-mail"><p class="semibold">Your email</p></label>
+            <input type="email" id="e-mail" name="email" placeholder="example: carl123@gmail.com" size="40">
+            </div>
+            <div class="text-box-2">
+                <label for="message"><p class="semibold">Your message</p></label>
+            <input type="text" name="message" id="message" maxlength="500" placeholder="type your message here..">
+            </div>
+        </form>
+        </div>
     </div>
     <!-- End Contact -->
 
